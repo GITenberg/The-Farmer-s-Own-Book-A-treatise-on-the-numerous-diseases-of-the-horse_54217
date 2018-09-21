@@ -1,11 +1,16 @@
 _repo: The-Farmer-s-Own-Book-A-treatise-on-the-numerous-diseases-of-the-horse_54217
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54217-h/images/cover.jpg
 creator:
   author:
     agent_name: Koogle, J. D.
     gutenberg_agent_id: '47771'
     url: http://www.gutenberg.org/2009/agents/47771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54217#The-Farmer-s-Own-Book-A-treatise-on-the-numerous-diseases-of-the-horse
 gutenberg_issued: '2017-02-21'
 gutenberg_type: Text
 identifiers:
